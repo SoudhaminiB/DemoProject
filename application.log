@@ -1,0 +1,4 @@
+2020-09-19 02:30:00,475  INFO [main] Demo2:13 - This is to test lgo4j
+2020-09-19 02:30:00,480 ERROR [main] Demo2:14 - This is to test error log
+2020-09-19 02:30:00,481 FATAL [main] Demo2:15 - This is to test fatal log
+2020-09-19 02:30:00,481 DEBUG [main] Demo2:16 - This is to test debug log
